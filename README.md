@@ -5,6 +5,10 @@
 
 Welcome to the new Web**Fundamentals**! An effort to showcase best practices and tools for modern Web Development.
 
+### Why Web Dev??
+
+Front-end web developers are in demand.It’s a lucrative career. Flexiblity, creativity ,all this things matter a lot.
+Its easy and effective.
 
 ### What's changed?
 
